@@ -10,6 +10,7 @@ import { IHoveredList, TStoreKey } from './types';
 function App() {
 	const { data, isLoading } = useModes();
 	const [fieldSize, setFieldSize] = useState<number>();
+
 	const [hoveredCellsList, setHoveredCellsList] = useState<IHoveredList>({});
 
 	const setHoveredList = (item: TStoreKey) => {
