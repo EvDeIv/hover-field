@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hover-field/static/css/main.e6c13ad2.css",
+    "main.js": "/hover-field/static/js/main.9a012649.js",
+    "index.html": "/hover-field/index.html",
+    "main.e6c13ad2.css.map": "/hover-field/static/css/main.e6c13ad2.css.map",
+    "main.9a012649.js.map": "/hover-field/static/js/main.9a012649.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9a012649.js"
+  ]
+}
